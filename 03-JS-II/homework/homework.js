@@ -127,7 +127,7 @@ module.exports = {
   esEntero,
   fizzBuzz,
   operadoresLogicos,
-  esPrimo,
+  esPrimos,
   esVerdadero,
   tablaDelSeis,
   tieneTresDigitos,
